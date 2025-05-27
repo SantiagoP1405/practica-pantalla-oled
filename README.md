@@ -1,5 +1,5 @@
 # practica-pantalla-oled
-## **Autores: ** Santiago Patricio Gómez Ochoa A01735171 | Darío Alberto Sánchez Perzabal A01738266
+## Autores: Santiago Patricio Gómez Ochoa - A01735171 | Darío Alberto Sánchez Perzabal - A01738266
 Ejercicio de práctica con las siguientes especificaciones:
 
 Siguiendo el análisis de los puertos de comunicación, vamos a estudiar la funcionalidad y configuración del puerto I2C. Para ello, se requiere de una pantalla OLED de 128x64 píxeles con comunicación I2C.
